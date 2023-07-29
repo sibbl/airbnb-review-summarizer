@@ -1,0 +1,12 @@
+{
+  "name": "airbnb-review-summarizer",
+  "version": "1.0.0",
+  "description": "This tool fetches the user reviews from Airbnb listings and summarizes it using a LLM.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Sebastian Schubotz",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
